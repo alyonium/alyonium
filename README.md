@@ -1,16 +1,17 @@
-### Hi there 👋
+![kitty](https://media.giphy.com/media/BvxFfGoaMyd0s/giphy.gif)
 
-<!--
-**alyonium/alyonium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Alona 🍓
 
-Here are some ideas to get you started:
+I'm frontend developer. You can find more about me [✨here✨](https://alyonium.github.io/)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main stack:
+
+* JavaScript
+* Vue (Vuetify, Vuex, Vue Router)
+* Express 
+* Canvas (Konva)
+* CSS (SASS, SCSS)
+* HTML
+* Git, SVN
+
+My work email alyonium.work@gmail.com
